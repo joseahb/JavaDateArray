@@ -6,9 +6,9 @@ public class Payload {
     private String run_times;
 
     public Payload() {
-        this.start_date = "01-02-21";
-        this.end_date = "30-03-21";
-        this.run_times = "0900,0910,0920,1304";
+        this.start_date = "01-02-2021";
+        this.end_date = "30-03-2021";
+        this.run_times = "09:00,09:10,09:20,13:04";
     }
 
     public void setStart_date(String start_date) {
